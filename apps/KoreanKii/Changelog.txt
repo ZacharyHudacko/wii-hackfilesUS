@@ -1,0 +1,8 @@
+v1.0
+-Initial release
+
+v1.1
+-Added GC controller support
+-Put the warnings in red and title in green
+-A little code cleanup
+-Warns you about 003 errors if you have 4.2+ (non-Korean)

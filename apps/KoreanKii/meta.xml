@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+	<name>KoreanKii</name>
+	<version>1.1</version>
+	<release_date>20121105000000</release_date>
+	<coder>tueidj and JoostinOnlnine</coder>
+	<short_description>Add or remove the Korean key from the SEEPROM.</short_description>
+	<long_description>With KoreanKii, you can add or remove the Korean key from your SEEPROM.  This eliminates the need for patching IOS60 into slots if you have a region changed Korean Wii.  See http:\\tinyurl.com\KoreanKii for more info.
+
+This program comes with no warranty.  You, and you alone are responsible if this damages your Wii in any way.
+All code in seeprom.c is by tueidj and Team Twiizers, I claim no rights to it.  This is simply a UI for the code.</long_description>
+<no_ios_reload/>
+</app>

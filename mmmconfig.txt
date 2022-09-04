@@ -1,0 +1,2 @@
+;MMMCONFIG (By ModMii)
+AutoLoadIOS=249
